@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🖕'
-global.REACT_NUMBER = '94716772179'
+global.OWNER_REACT = '👻'
+global.REACT_NUMBER = '94767383752'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94716772179'] //ur owner number
-global.ownername = "navi baba💖🥱" //ur owner name
-global.ytname = "king naviya" //ur yt chanel name
+global.vcardowner = ['94767383752'] //ur owner number
+global.ownername = "𝚘𝚜𝚑𝚊𝚍𝚊 𝚗𝚊𝚠𝚊𝚖𝚒𝚗𝚊" //ur owner name
+global.ytname = "𝙽/𝙰 𝚈𝚃" //ur yt chanel name
 global.socialm = "naviya" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['716772179']
 global.ownertag = '716772179' //ur tag number
-global.botname = '𝐤𝐢𝐧𝐠 𝐧𝐚𝐯𝐢💖' //ur bot name
+global.botname = '𝙽𝙰𝚅𝙸𝚈𝙰' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
 global.botscript = '' //script link
-global.reactmoji = "❤" //ur menu react emoji
-global.themeemoji = "🖕" //ur theme emoji
-global.packname = "𝐧𝐚𝐯𝐢 𝐛𝐚𝐛𝐚𝐡🥱 Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "𝐧𝐚𝐯𝐢 𝐛𝐚𝐛𝐚💖" //ur sticker watermark author
+global.reactmoji = "🍃" //ur menu react emoji
+global.themeemoji = "💔" //ur theme emoji
+global.packname = "𝙽𝙰𝚅𝙸𝚈𝙰 𝙱𝙾𝚃 Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "𝙽𝙰𝚅𝙸𝚈𝙰" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['767383752'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
